@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nkbt/react-copy-to-clipboard.git"
+    "url": "https://github.com/zaphosting/react-copy-to-clipboard.git"
   },
   "keywords": [
     "component",
@@ -46,9 +46,9 @@
   "author": "Nik Butenko <nik@butenko.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nkbt/react-copy-to-clipboard/issues"
+    "url": "https://github.com/zaphosting/react-copy-to-clipboard/issues"
   },
-  "homepage": "https://github.com/nkbt/react-copy-to-clipboard",
+  "homepage": "https://github.com/zaphosting/react-copy-to-clipboard",
   "peerDependencies": {
     "react": "^15.3.0 || 16 || 17 || 18 || 19"
   },
